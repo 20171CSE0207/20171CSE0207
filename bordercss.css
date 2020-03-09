@@ -23,4 +23,11 @@ width:300px;
 margin:auto;
 border:1px red;
 }
+p
+{
+width:300px;
+border:25px solid green;
+padding:25px;
+margin:25px;
+}
 
